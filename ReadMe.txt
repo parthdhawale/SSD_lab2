@@ -30,7 +30,7 @@ If you get following Error “Procedure already exists” → run  DROP PROCEDUR
 then re-execute the script.
 
 GitHub Repository Link:
-https://github.com/parthdhawale/SDD_lab2
+https://github.com/parthdhawale/SSD_lab2
 
 
 
