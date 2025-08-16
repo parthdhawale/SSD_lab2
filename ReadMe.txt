@@ -29,6 +29,8 @@ CALL SendWatchTimeReport();
 If you get following Error “Procedure already exists” → run  DROP PROCEDURE IF EXISTS procedure_name;
 then re-execute the script.
 
+GitHub Repository Link:
+https://github.com/parthdhawale/SDD_lab2
 
 
 
